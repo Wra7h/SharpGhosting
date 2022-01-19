@@ -1,5 +1,5 @@
 # SharpGhosting
-x64 Process Ghosting in C#
+Process Ghosting (x64 only) in C#
 
 https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack  
 
