@@ -12,7 +12,7 @@ https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-at
 -fake: path to a file that doesn't exist (parent directory must exist though) [Optional]  
 
 `PS C:\> .\Path\to\SharpGhosting.exe -real C:\windows\system32\cmd.exe`  
-`PS C:\> .\Path\to\SharpGhosting.exe -real C:\windows\system32\cmd.exe -fake C:\windows\temp\`  
+`PS C:\> .\Path\to\SharpGhosting.exe -real C:\windows\system32\cmd.exe -fake C:\windows\temp\fakefile`  
 
 ![Alt text](/images/demo.png)
 
