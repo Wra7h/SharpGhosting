@@ -6,6 +6,7 @@ https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-at
 ## Compile options:
 1. Build the solution  
 2. `PS C:\> C:\Windows\Microsoft.NET\Framework64\v3.5\csc.exe /out:SharpGhost.exe /unsafe C:\Path\to\SharpGhosting\*.cs`  
+    - v4.0.30319's csc.exe also works for compiling
 
 ## Usage:
 -real: the exe you want executed [Required]  
